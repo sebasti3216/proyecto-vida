@@ -2,4 +2,24 @@
 
 body{
     font-family: 'Roboto', sans-serif;
+    background: rgb(0,0,4);
+    background: linear-gradient(90deg, rgba(0,0,4,1) 0%, rgba(0,0,10,1) 46%, rgba(0,3,9,1) 55%, rgba(0,4,5,1) 100%);
+}
+h1,h2,h3,p,a{
+    color:  #fff;
+}
+#quien_soy{
+    text-align: center;
+}
+
+#quien_soy{
+    text-align: center;
+}
+
+.centrado {
+    text-align: center;
+}
+
+.color-blanco { 
+    color: white;
 }
